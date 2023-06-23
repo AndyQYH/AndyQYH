@@ -50,10 +50,11 @@
 
 <!-- CONTACT -->
 ## Contact
+E-Mail - (qinandy2001@gmail.com)
 
-LinkedIn - [Yihui Qin](https://www.linkedin.com/in/yihui-qin/) - qinandy2001@gmail.com
+LinkedIn - [Yihui Qin](https://www.linkedin.com/in/yihui-qin/)
 
-Github Link: [AndyQYH](https://github.com/AndyQYH/AndyQYH)
+Github Link - [AndyQYH](https://github.com/AndyQYH/AndyQYH)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
