@@ -51,9 +51,9 @@
 <!-- CONTACT -->
 ## Contact
 
-Andy Qin - [@twitter_handle](https://www.linkedin.com/in/yihui-qin/) - qinandy2001@gmail.com
+LinkedIn - [@twitter_handle](https://www.linkedin.com/in/yihui-qin/) - qinandy2001@gmail.com
 
-Project Link: [https://github.com/github_username/AndyQYH](https://github.com/AndyQYH/AndyQYH)
+Github Link: [https://github.com/github_username/AndyQYH](https://github.com/AndyQYH/AndyQYH)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
