@@ -89,5 +89,5 @@ Github Link - [AndyQYH](https://github.com/AndyQYH/AndyQYH)
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[NodeJs.org]: https://img.shields.io/badge/nodedotjs?style=for-the-badge&logo=nodedotjs&logoColor=white
+[NodeJs.org]: https://img.shields.io/badge/NodeJs-0769AD?style=for-the-badge&logo=nodedotjs&logoColor=white
 [NodeJs-url]: https://nodejs.org/en
