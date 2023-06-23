@@ -40,8 +40,7 @@
 
 
 ### Known Technologies
-* [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+[![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url] [![Node Js][NodeJs.oeg]][NodeJs-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,3 +89,5 @@ Github Link - [AndyQYH](https://github.com/AndyQYH/AndyQYH)
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[NodeJs.org]: https://img.shields.io/badge/nodedotjs?style=for-the-badge&logo=nodedotjs&logoColor=white
+[NodeJs-url]: https://nodejs.org/en
