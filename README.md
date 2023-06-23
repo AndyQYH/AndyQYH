@@ -50,9 +50,9 @@
 
 <!-- CONTACT -->
 ## Contact
-E-Mail - (qinandy2001@gmail.com)
+E-Mail - qinandy2001@gmail.com
 
-LinkedIn - [Yihui Qin](https://www.linkedin.com/in/yihui-qin/)
+LinkedIn - [Yihui(Andy) Qin](https://www.linkedin.com/in/yihui-qin/)
 
 Github Link - [AndyQYH](https://github.com/AndyQYH/AndyQYH)
 
