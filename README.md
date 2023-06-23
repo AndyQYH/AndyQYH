@@ -40,7 +40,7 @@
 
 
 ### Known Technologies
-[![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url] [![Node Js][NodeJs.org]][NodeJs-url] [![Python][Python.org]][Python-url]
+[![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url] [![Node Js][NodeJs.org]][NodeJs-url] [![Python][Python.org]][Python-url] [Django][Django.com]][Django-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,8 +77,8 @@ Github Link - [AndyQYH](https://github.com/AndyQYH/AndyQYH)
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=092E20
-[Vue-url]: https://vuejs.org/
+[Django.com]: https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=092E20
+[Django-url]: https://www.djangoproject.com/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD846
