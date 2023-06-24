@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-[![My_Portray][product-screenshot]](https://example.com)
+[![My_Portray][my-portray]](Andy_Qin_Logo)
 
 ### Hi there 👋
 
