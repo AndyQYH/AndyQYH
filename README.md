@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-<div align="left" style="border-radius:50%;">
+<div align="left" border-radius='50%;">
   <a href="https://github.com/AndyQYH/AndyQYH">
       <img src="images/Andy-portray2-large.png" width="100"/>
   </a>
