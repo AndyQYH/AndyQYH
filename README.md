@@ -23,10 +23,7 @@
 🖌 I am also active in developing and maintaining websites made by start-ups, along with testing. \
 👯 I am open to any new challenges and would like to join a team that also shares a similar passion. \
 📫 How to reach me: qinandy2001@gmail.com | https://www.linkedin.com/in/yihui-qin/ \
-⚡ Fun fact:  I found chatGPT's dad jokes really funny 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+⚡ Fun fact:  I found chatGPT's dad jokes really funny
 
 
 ### ❤ Known Technologies
@@ -35,12 +32,11 @@
 ### 💔 None Technologies
 [![C++][CPP.com]][CPP-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndyQYH&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyQYH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
