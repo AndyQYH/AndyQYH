@@ -16,7 +16,7 @@
 
 <div align="left" >
   <a href="https://github.com/AndyQYH/AndyQYH" >
-      <img src="images/Andy-portray2-large.png" width="100" height="auto" style="border-radius: 50%"/>
+      <img src="images/Andy_logo.jpg" width="100" height="auto" style="border-radius: 50%"/>
   </a>
 </div>
 
