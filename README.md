@@ -45,6 +45,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndyQYH&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- CONTACT -->
 ## Contact
