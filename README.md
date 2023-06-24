@@ -8,9 +8,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -39,15 +36,13 @@
 
 
 
-### Known Technologies
+### ❤ Known Technologies
 [![JavaScript][JS.com]][JS-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url] [![Node Js][NodeJs.org]][NodeJs-url] [![Python][Python.org]][Python-url] [![Django][Django.com]][Django-url]
 
-### None Technologies
+### 💔 None Technologies
 [![C++][CPP.com]][CPP-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
