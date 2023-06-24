@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AndyQYH/AndyQYH">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="auto" width="100"/>
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="left" >
   <a href="https://github.com/AndyQYH/AndyQYH" >
-      <img src="images/Andy-portray2-large.png" width="100" style="border-radius: 30"/>
+      <img src="images/Andy-portray2-large.png" width="100" height="auto" style="border-radius: 50%"/>
   </a>
 </div>
 
