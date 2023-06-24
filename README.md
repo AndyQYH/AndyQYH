@@ -22,7 +22,17 @@
 🗒 I recently worked on many projects that dealt with extracting data from social media and sanitizing their meanings with the OpenAI API. \
 🖌 I am also active in developing and maintaining websites made by start-ups, along with testing. \
 👯 I am open to any new challenges and would like to join a team that also shares a similar passion. \
-📫 How to reach me: qinandy2001@gmail.com | https://www.linkedin.com/in/yihui-qin/ \
+📫 How to reach me: <div id="badges">
+                      <a href="your-linkedin-URL">
+                        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                      </a>
+                      <a href="your-youtube-URL">
+                        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+                      </a>
+                      <a href="your-twitter-URL">
+                        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+                      </a>
+                    </div>
 ⚡ Fun fact:  I found chatGPT's dad jokes really funny
 
 
