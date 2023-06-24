@@ -22,7 +22,7 @@
 🗒 I recently worked on many projects that dealt with extracting data from social media and sanitizing their meanings with the OpenAI API. \
 🖌 I am also active in developing and maintaining websites made by start-ups, along with testing. \
 👯 I am open to any new challenges and would like to join a team that also shares a similar passion. \
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin-url]
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yihui(Andy)Qin-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin-url] \
 ⚡ Fun fact:  I found chatGPT's dad jokes really funny
 
 
