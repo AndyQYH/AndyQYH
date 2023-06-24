@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![My_Portray][product-screenshot]](https://example.com)
 
 ### Hi there 👋
 
@@ -67,7 +67,7 @@ Github Link - [AndyQYH](https://github.com/AndyQYH/AndyQYH)
 [license-url]: https://github.com/AndyQYH/AndyQYH/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yihui-qin
-[product-screenshot]: images/screenshot.png
+[my-portray]: images/Andy-portray2-large.png
 [JS.com]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://www.javascript.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
