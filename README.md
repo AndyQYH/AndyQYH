@@ -22,7 +22,7 @@
 🗒 I recently worked on many projects that dealt with extracting data from social media and sanitizing their meanings with the OpenAI API. \
 🖌 I am also active in developing and maintaining websites made by start-ups, along with testing. \
 👯 I am open to any new challenges and would like to join a team that also shares a similar passion. \
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yihui(Andy)Qin-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin-url] [![Gmail Badge](https://img.shields.io/badge/-qinandy2001@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)][linkedin-url]\
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yihui(Andy)Qin-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin-url] [![Gmail Badge](https://img.shields.io/badge/-qinandy2001@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)][Gmail-url]\
 ⚡ Fun fact:  I found chatGPT's dad jokes really funny
 
 
@@ -86,3 +86,4 @@ Github Link - [AndyQYH](https://github.com/AndyQYH/AndyQYH)
 [JQuery-url]: https://jquery.com 
 [NodeJs.org]: https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [NodeJs-url]: https://nodejs.org/en
+[Gmail-url]: qinandy2001@gmail.com
