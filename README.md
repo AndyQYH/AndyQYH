@@ -14,7 +14,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-[![My_Portray][my-portray]](Andy_Qin_Logo)
+<div align="left">
+  <a href="https://github.com/AndyQYH/AndyQYH">
+      <img src="images/Andy-portray2-large.png" width="100"/>
+  </a>
+</div>
 
 ### Hi there 👋
 
