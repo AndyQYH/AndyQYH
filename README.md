@@ -14,8 +14,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-<div align="left" style="border-radius=50%;">
-  <a href="https://github.com/AndyQYH/AndyQYH">
+<div align="left" >
+  <a href="https://github.com/AndyQYH/AndyQYH" style="border-radius:50%">
       <img src="images/Andy-portray2-large.png" width="100"/>
   </a>
 </div>
